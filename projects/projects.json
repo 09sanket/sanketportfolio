@@ -1,0 +1,22 @@
+[
+  {
+    "name": "JavaScript Calculator",
+    "desc": "Simple HTML CSS Javascript Calculator For Mathmatical Tasks.",
+    "image": "calculator",
+    "category": "web",
+    "links": {
+      "view": "hhttps://09sanket.github.io/musicplayer/",
+      "code": "https://github.com/09sanket/musicplayer"
+    }
+  },
+  {
+    "name": "Music Player",
+    "desc": "Attractive and Loud Music Player.",
+    "image": "musict",
+    "category": "web",
+    "links": {
+      "view": "https://09sanket.github.io/musicplayer/",
+      "code": "https://github.com/09sanket/musicplayer"
+    }
+  }
+]
