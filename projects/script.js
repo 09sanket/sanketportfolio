@@ -24,7 +24,7 @@ document.addEventListener('visibilitychange',
             $("#favicon").attr("href", "/assets/images/favicon.ico");
         }
         else {
-            document.title = "Projects | Portfolio Shriyansh Thakur";
+            document.title = "Projects | Portfolio Sanket Rahangadale";
             $("#favicon").attr("href", "/assets/images/favicon.ico");
         }
     });
